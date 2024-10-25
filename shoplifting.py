@@ -1,0 +1,1 @@
+print('shoplifting detection')
